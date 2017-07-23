@@ -1,7 +1,6 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" 
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
-	http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.douglaseleuterio</groupId>
 	<artifactId>login</artifactId>
@@ -48,13 +47,12 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 			<version>2.1.13</version>
 			<scope>compile</scope>
 		</dependency>
-		<!-- Biblioteca de Utilitarios --> 
-		<!-- Utility classes - with static methods to 
-			perform common tasks Input - useful Input Stream and Reader implementations 
-			Output - useful Output Stream and Writer implementations Filters - various 
-			implementations of file filters Comparators - various implementations of 
-			java.util.Comparator for files File Monitor - a component for monitoring 
-			file system events -->
+		<!-- Biblioteca de Utilitarios -->
+		<!-- Utility classes - with static methods to perform common tasks Input 
+			- useful Input Stream and Reader implementations Output - useful Output Stream 
+			and Writer implementations Filters - various implementations of file filters 
+			Comparators - various implementations of java.util.Comparator for files File 
+			Monitor - a component for monitoring file system events -->
 		<dependency>
 			<groupId>commons-io</groupId>
 			<artifactId>commons-io</artifactId>
