@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"bean","l":"LoginManagedBean"},{"p":"model","l":"Usuario"},{"p":"controller","l":"UsuarioDAO"}];updateSearchResults();
